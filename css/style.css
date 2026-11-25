@@ -271,7 +271,7 @@ img {
 .hero-title {
     font-family: var(--fh);
     font-weight: 700;
-    font-size: clamp(2.8rem, 9vw, 5rem);
+    font-size: clamp(2.4rem, 9vw, 5rem);
     line-height: 1;
     letter-spacing: .05em;
     margin: 2.5rem 0 1rem;
